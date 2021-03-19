@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615982686 source:d:\c plus plus\stoptraffic\main.cpp
+	<iostream>
+	<graphics.h>
+
